@@ -1,40 +1,82 @@
-# 👋 Hi, I'm Sami Sheikh
+# Sami Sheikh — AI/LLM Engineer
 
-**AI/ML Engineer** building production LLM systems · MSc in AI (with honors) · PhD candidate @ SPbPU
+**Applied AI Engineer | Production RAG Systems | AI Agents | Python/FastAPI**
 
-📍 Saint Petersburg, Russia
+Based in Saint Petersburg, Russia.
 
----
+I build production AI/LLM systems focused on RAG, agentic workflows, document intelligence, and enterprise backend integration.
 
-## 🔭 Currently
+Currently working as an **AI Engineer at Thinkplus**, developing AI components for an enterprise BPM platform.
 
-Working as **AI Engineer @ Thinkplus** — building enterprise AI platforms with LLM integrations, RAG pipelines, and AI-assisted development workflows.
+## Core Technical Skills
 
-## 🛠️ Tech Stack
+**AI/LLM:** RAG, LangGraph, LangChain, AI Agents, Hybrid Search, Reranking, LLM Evaluation, MCP
 
-**Languages:** Python · SQL · Bash
+**Backend:** Python, FastAPI, REST API, PostgreSQL, pgvector, Qdrant, Redis
 
-**AI / ML:** OpenAI API · Anthropic Claude API · RAG · pgvector · Prompt Engineering · NLP
+**Infrastructure & Tools:** Docker, Apache Kafka, Neo4j, MLflow, Airflow, n8n, Git, Playwright
 
-**Backend:** FastAPI · REST · PostgreSQL · Docker · Microservices
+**LLM Integrations:** OpenAI API, Anthropic Claude API, Local LLMs
 
-**Tools:** Claude Code · Cursor · Git · Linux · Playwright
+## Featured Projects
 
-## 🎓 Education
+### 1. [RAG Service](https://github.com/samishekhalard/rag-service)
 
-- 🎓 **PhD candidate** — Saint Petersburg Polytechnic University (СПбПУ) · *in progress*
-- 🎓 **MSc in Artificial Intelligence** (with honors) — СПбПУ · 2025
-- 🎓 **BSc in Software Engineering** — Damascus University · 2021
+Hybrid RAG system combining BM25 and dense vector retrieval, reranking, and LLM-based answer generation.
 
-## 🌍 Languages
+- Qdrant vector storage
+- Retrieval evaluation and benchmarking
+- Langfuse tracing and latency monitoring
+- FastAPI backend
 
-🇸🇦 Arabic (Native) · 🇷🇺 Russian (C1) · 🇬🇧 English (C1)
+### 2. [RAG MCP](https://github.com/samishekhalard/rag-mcp)
 
-## 📫 Reach me
+Model Context Protocol server connecting LLM agents to document retrieval and RAG services.
 
-📧 samishekhalard3@gmail.com  
-💬 Telegram: [@samiishekh](https://t.me/samiishekh)
+- MCP tools for document search and retrieval
+- Context-aware document reading
+- RAG-powered answer generation
 
----
+### 3. [AI Agent Pipeline](https://github.com/samishekhalard/ai-agent-pipeline)
 
-*Open to collaboration on AI/ML projects · LLM apps · RAG systems*
+Local AI-powered document processing and automation system.
+
+- FastAPI and n8n workflow orchestration
+- Document classification, entity extraction, and summarization
+- PostgreSQL persistence and Redis caching
+- Docker-based deployment
+
+### 4. [AI Document Intelligence](https://github.com/samishekhalard/ai-document-intelligence)
+
+Multilingual document intelligence system combining RAG, OCR, NLP, and agentic workflows.
+
+- Document ingestion and semantic retrieval
+- LangGraph orchestration
+- OCR and structured information extraction
+- Local LLM support
+
+## Professional Experience
+
+**AI Engineer — Thinkplus | September 2025 – Present**
+
+Developing enterprise AI/LLM components, including production RAG, multi-agent workflows, document intelligence, and AI backend integrations.
+
+## Education
+
+- MSc in Artificial Intelligence (with honors) — Saint Petersburg Polytechnic University, 2025
+- Postgraduate studies — Saint Petersburg Polytechnic University (in progress)
+- BSc in Software Engineering — Damascus University, 2021
+
+## Languages
+
+- English — C1
+- Russian — C1
+- Arabic — Native
+
+## Contact
+
+Email: samishekhalard3@gmail.com
+
+Telegram: [@samiishekh](https://t.me/samiishekh)
+
+**Open to Middle AI/LLM Engineer, Applied AI Engineer, and ML Engineer (LLM/NLP) opportunities.**
